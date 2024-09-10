@@ -28,7 +28,7 @@ lahat ng ito ituturo ko
 
 Admin Credential
 Username: admin
-Password: Test@123
+Password: Test@123 / 123
 
 
 User Credential
